@@ -1,3 +1,4 @@
 import pyqrcode
 
-#https://github.com/ylanekouassi
+website = 'https://github.com/ylanekouassi'
+
